@@ -1,3 +1,47 @@
+# Task Manager Frontend
+
+This is the frontend React application for the Task Manager system.
+
+## 🚀 Features
+- Create, view, update, and delete tasks
+- Simple and user-friendly UI
+- Connects to backend API
+
+## 🛠 Tech Stack
+- React.js
+- Axios (API requests)
+- Basic CSS
+
+## 📂 How to Run
+
+1. Navigate to the frontend folder:
+   ```bash
+   cd frontend
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Start the development server:
+   ```bash
+   npm start
+   ```
+4. The app will run at:
+   ```
+   http://localhost:3000
+   ```
+
+⚠️ Ensure the backend is running on `http://localhost:5000` for API communication.
+
+## 🧪 Running Tests
+
+React comes with built-in testing using Jest.
+
+To run tests:
+```bash
+npm test
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
